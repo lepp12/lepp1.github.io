@@ -236,7 +236,6 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   
   .gs-section-02-03 h2{
     color: blue;
-    font-family: "Times New Roman";
     font-size: 25px
     }
     gs-section-02-03 p{
