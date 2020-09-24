@@ -6,7 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Larson Epp MS PEDA
+
+# Short description of your site
+description: A virtual proof that Dr. Lecy is awesome
 
 # Your name to show in the footer
 author: Some Person
