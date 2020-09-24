@@ -77,8 +77,8 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 <h2> ### 3. Customize your website settings </h2>
 
 <p>Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
-
-Note that in the video above I only edited one setting in the `_config.yml` file. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
+</p>  
+<p>Note that in the video above I only edited one setting in the `_config.yml` file. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 </p> 
 </div>
 
